@@ -15,6 +15,10 @@ This creates two discrepancies each tax year:
 
 This tool calculates both corrections so you can adjust the IBKR Activity Statement for your German tax return (*Anlage KAP*).
 
+## Download
+
+[**Download options_tracker.exe**](https://github.com/edwinerpenbach-hub/options-tax-germany/releases/latest/download/options_tracker.exe) (Windows, no installation required)
+
 ## Features
 
 - **Tax Report Generator** -- Calculates Step 1 (add) and Step 2 (subtract) corrections per tax year, with EUR conversion
