@@ -27,3 +27,7 @@ This tool calculates both corrections so you can adjust the IBKR Activity Statem
 - **Import/Export** -- Import trades from CSV (IBKR Activity Statement), export to CSV/Excel
 - **ECB Exchange Rates** -- Download EUR/USD rates from the ECB and auto-fill missing rates
 - **Dark-themed PyQt6 GUI** -- Modern desktop interface, standalone `.exe` -- no Python installation required
+
+## Screenshot
+
+![Screenshot](Screenshot.png)
