@@ -26,8 +26,13 @@ This tool calculates both corrections so you can adjust the IBKR Activity Statem
 No Python installation required. **Linux/macOS**: After downloading, make the file executable before running:
 
 ```bash
+# Linux:
 chmod +x options_tracker_linux
 ./options_tracker_linux
+
+# macOS:
+chmod +x options_tracker_macos
+./options_tracker_macos
 ```
 
 ## Features
