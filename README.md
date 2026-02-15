@@ -23,7 +23,12 @@ This tool calculates both corrections so you can adjust the IBKR Activity Statem
 | macOS | [**options_tracker_macos**](https://github.com/edwinerpenbach-hub/options-tax-tracker-germany/releases/latest/download/options_tracker_macos) |
 | Linux | [**options_tracker_linux**](https://github.com/edwinerpenbach-hub/options-tax-tracker-germany/releases/latest/download/options_tracker_linux) |
 
-No Python installation required -- just download and run.
+No Python installation required. **Linux/macOS**: After downloading, make the file executable before running:
+
+```bash
+chmod +x options_tracker_linux
+./options_tracker_linux
+```
 
 ## Features
 
