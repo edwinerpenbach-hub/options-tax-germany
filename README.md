@@ -35,6 +35,8 @@ chmod +x options_tracker_macos
 ./options_tracker_macos
 ```
 
+**macOS note**: Gatekeeper may block the app because it is not signed. On first launch, go to **System Settings > Privacy & Security** and click **Open Anyway**.
+
 ## Features
 
 - **Tax Report Generator** -- Calculates Step 1 (add) and Step 2 (subtract) corrections per tax year, with EUR conversion
