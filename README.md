@@ -19,9 +19,9 @@ This tool calculates both corrections so you can adjust the IBKR Activity Statem
 
 | Platform | Download |
 |---|---|
-| Windows | [**options_tracker_windows.exe**](https://github.com/edwinerpenbach-hub/options-tax-tracker-germany/releases/latest/download/options_tracker_windows.exe) |
-| macOS | [**options_tracker_macos**](https://github.com/edwinerpenbach-hub/options-tax-tracker-germany/releases/latest/download/options_tracker_macos) |
-| Linux | [**options_tracker_linux**](https://github.com/edwinerpenbach-hub/options-tax-tracker-germany/releases/latest/download/options_tracker_linux) |
+| Windows | [**options_tracker_windows.exe**](https://github.com/edwinerpenbach-hub/options-tax-germany/releases/latest/download/options_tracker_windows.exe) |
+| macOS | [**options_tracker_macos**](https://github.com/edwinerpenbach-hub/options-tax-germany/releases/latest/download/options_tracker_macos) |
+| Linux | [**options_tracker_linux**](https://github.com/edwinerpenbach-hub/options-tax-germany/releases/latest/download/options_tracker_linux) |
 
 No Python installation required. **Linux/macOS**: After downloading, make the file executable before running:
 
